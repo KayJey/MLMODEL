@@ -1,0 +1,2 @@
+a=readcvs('data.csv')
+scatter(a(:,1),a(:2),'filled')
